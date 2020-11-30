@@ -1,7 +1,7 @@
 ---
 title: Bienvenue sur mon blog !
-featured_image: "/images/Pope-Edouard-de-Beaumont-1844.jpg"
-description: ''
+featured_image: "/images/Victor_Hugo-Hunchback.jpg"
+description: 'fresque murale datant du moyenne âge '
 menu: ''
 
 ---
