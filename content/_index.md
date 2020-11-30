@@ -1,7 +1,9 @@
 ---
-title: 'Ananke: a Hugo Theme'
+title: Bienvenue sur mon blog !
 featured_image: "/images/gohugo-default-sample-hero-image.jpg"
-description: The last theme you'll ever need. Maybe.
+description: Le menu
 
 ---
-Welcome to my blog with some of my work in progress. I've been working on this book idea. You can read some of the chapters below.
+Bienvenue mon mon blog !
+
+Découvrez nos articles et contenus exclusifs.
