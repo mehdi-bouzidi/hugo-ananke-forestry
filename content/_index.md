@@ -1,7 +1,8 @@
 ---
 title: Bienvenue sur mon blog !
-featured_image: "/images/gohugo-default-sample-hero-image.jpg"
-description: Le menu
+featured_image: "/images/Pope-Edouard-de-Beaumont-1844.jpg"
+description: ''
+menu: ''
 
 ---
 Bienvenue mon mon blog !
