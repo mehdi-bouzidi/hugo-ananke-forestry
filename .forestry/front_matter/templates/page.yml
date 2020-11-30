@@ -11,6 +11,18 @@ fields:
 - type: text
   name: description
   label: description
+- name: menu
+  type: select
+  default: []
+  config:
+    required: false
+    options: []
+    source:
+      type: simple
+      section: 
+      file: 
+      path: 
+  label: menu
 pages:
 - content/_index.md
 - content/about/_index.md
